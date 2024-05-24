@@ -4,7 +4,7 @@ title = ''
 draft = false
 
 +++
-![image here](../images/explorer-1.png#center)
+![image here](../images/odyssey-1.png#center)
 put narrative text here
 
 

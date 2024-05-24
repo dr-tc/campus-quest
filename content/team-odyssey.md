@@ -5,8 +5,9 @@ draft = false
 
 +++
 ![header](../images/odyssey.png#center)
-### Get your dice ready for an adventure around the campus!
 
-*  Let's start with the Explorer's Trail
-*  I think I need to complete the other pages first.
-*  
+[![image here](../images/odyssey-1.png#center)](../odyssey-1)
+[![image here](../images/odyssey-2.png#center)](../odyssey-2)
+[![image here](../images/odyssey-3.png#center)](../odyssey-3)
+[![image here](../images/odyssey-4.png#center)](../odyssey-4)
+[![image here](../images/odyssey-5.png#center)](../odyssey-5)

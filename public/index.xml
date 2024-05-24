@@ -31,10 +31,73 @@
     </item>
     <item>
       <title></title>
+      <link>http://localhost:1313/explorer-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/explorer-2/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/explorer-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/explorer-3/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/explorer-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/explorer-4/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/explorer-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/explorer-5/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/odyssey-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/odyssey-1/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/odyssey-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/odyssey-2/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/odyssey-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/odyssey-3/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/odyssey-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/odyssey-4/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/odyssey-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/odyssey-5/</guid>
+      <description>put narrative text here</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/team-odyssey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/team-odyssey/</guid>
-      <description>Get your dice ready for an adventure around the campus! Let&amp;rsquo;s start with the Explorer&amp;rsquo;s Trail I think I need to complete the other pages first. </description>
+      <description></description>
     </item>
   </channel>
 </rss>

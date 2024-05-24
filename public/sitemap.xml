@@ -8,11 +8,28 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-04-01T11:39:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/explorer-1/</loc>
-    <lastmod>2024-04-01T11:39:24+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/explorers-trail/</loc>
     <lastmod>2024-04-01T11:39:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/explorer-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/explorer-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/explorer-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/explorer-4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/explorer-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/odyssey-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/odyssey-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/odyssey-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/odyssey-4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/odyssey-5/</loc>
   </url><url>
     <loc>http://localhost:1313/team-odyssey/</loc>
   </url><url>
