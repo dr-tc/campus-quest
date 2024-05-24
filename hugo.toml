@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
 
-
 [menu]
 [[menu.main]]
   name = 'Home'
